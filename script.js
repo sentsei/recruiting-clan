@@ -12,7 +12,7 @@ document.getElementById('submit-btn').addEventListener('click', function() {
     }
 
     // Your clan email address
-    const yourEmail = "jeralkho789@gmail.com"; 
+    const yourEmail = "jeraldkho789@gmail.com"; 
     
     // Create the email subject and body text
     const subject = encodeURIComponent("CODM Clan Application - " + ign);
